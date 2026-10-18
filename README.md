@@ -102,7 +102,7 @@ Start chatting with the built-in free OpenCode Zen models immediately, or add yo
 - **Official Website**: [https://opencode.userdeep.com/](https://opencode.userdeep.com/)
 - **Documentation**: [https://opencode.userdeep.com/features.html](https://opencode.userdeep.com/features.html)
 - **Google Play Store**: [Install OpenCode Agent](https://url.userdeep.com/oc-github-readme)
-- **Support & Feedback**: [contact@userdeep.com](mailto:contact@userdeep.com)
+- **Support & Feedback**: [service@userdeep.com](mailto:service@userdeep.com)
 
 ---
 
